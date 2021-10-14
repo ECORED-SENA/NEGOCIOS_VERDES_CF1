@@ -1,1 +1,2 @@
-module.exports = 'Diagnóstico del entorno ambiental'
+module.exports =
+  'Diagnóstico del entorno ambiental. '
