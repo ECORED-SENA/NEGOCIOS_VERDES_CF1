@@ -7,7 +7,7 @@
         span 4
       h1 Indicadores ambientales
 
-    .row.justify-content-center.mb-5(style="background-color: #CDE1F3; border-radius:15px")
+    .row.justify-content-center.mb-5(style="background-color: #CAE0F4; border-radius:15px")
       .col-6.p-4.py-5
         p.mb-4 El Decreto 1220 del 21 de abril de 2005, en su artículo 1º, define el Plan de Manejo Ambiental (PMA) como el conjunto detallado de actividades, que producto de una evaluación ambiental, están orientadas a prevenir, mitigar, corregir o compensar los impactos y efectos ambientales que se causen por el desarrollo de un proyecto, obra o actividad. Incluye los planes de seguimiento, monitoreo, contingencia y abandono, según la naturaleza del proyecto, obra o actividad.
         p.mb-0 Del mismo modo se presentan los indicadores ambientales, para entender, describir y analizar distintos fenómenos como el clima, la pérdida de suelos y el riesgo de especies, entre muchos otros. Si bien el uso de indicadores ambientales se ha extendido, no existe una definición única del concepto y este varía de acuerdo con la institución y a los objetivos específicos que se persiguen.         
