@@ -37,11 +37,22 @@
     #t_5_2.titulo-segundo
       h2 5.2  Componentes fundamentales
 
-    .row.justify-content-center
+    .row.justify-content-start
+      .col-lg-1
       .col-lg-10
         p.mb-5 Las acciones que se ejecutarán para el cumplimiento de las metas y los objetivos en los próximos años se centran en: 
+    .row.justify-content-start(style="position:relative")
+      .col-lg-1
+      .col-lg-6        
         figure
-          img(src='@/assets/curso/tema5/img03.png') 
+          img(src='@/assets/curso/tema5/img05.png') 
+      .col-lg-4     
+         p.mb-0(Style="position:absolute; top: 12%; left: 58%") Las personas, para lograr la dignidad e igualdad<br>para todas las personas.   ç
+         p.mb-0(Style="position:absolute; top: 26%; left: 58%") El planeta, por su conservación y protección.  
+         p.mb-0(Style="position:absolute; top: 34.5%; left: 58%") La prosperidad, para disfrutar de una vida próspera<br>en armonía con la naturaleza. 
+         p.mb-0(Style="position:absolute; top: 46.5%; left: 58%") La paz, para propiciar sociedades pacíficas, justas e<br>inclusivas.
+         p.mb-0(Style="position:absolute; top: 57%; left: 58%") Las alianzas, con el fin de crear alianzas entre los<br>diferentes actores, basados en los principios<br>solidarios. 
+
     Separador
 
     #t_5_3.titulo-segundo
