@@ -7,16 +7,32 @@
         span 2
       h1 Medio ambiente
 
-    figure
-      img(src='@/assets/curso/tema2/img01.png') 
+    
+    .row(style="position:relative; width:100%")
+        .col-lg-12
+          figure
+            img(src='@/assets/curso/tema2/img19.png')
+          .row(style="position:absolute; bottom:0%; width:100%") 
+            .col-lg-6.p-4.t2-gradiente
+              .row
+                .col-lg-8
+                  p.mb-0 La ecología es la ciencia que estudia el medio ambiente, la cual abarca todas las relaciones entre los seres vivos y no vivos que interactúan naturalmente.
 
     Separador
 
     #t_2_1.titulo-segundo
       h2 2.1  Estructura del ambiente
 
-    figure
-      img(src='@/assets/curso/tema2/img02.png') 
+    p.mb-0 El medio ambiente consta de dos factores que se relacionan estrechamente entre sí en el ecosistema: 
+    .row.justify-content-center.mb-5
+      .col-10
+        figure
+          img(src='@/assets/curso/tema2/img20.png') 
+        .row.justify-content-center.my-0.py-4(style="background-color: #A0A603")
+          .col-9
+            h4.py-0.my-0(style="color:white") En la siguiente imagen se pueden evidenciar algunos ejemplos de cada uno de ellos:
+        figure
+          img(src='@/assets/curso/tema2/img21.png') 
     Separador
 
     #t_2_2.titulo-segundo
@@ -30,7 +46,7 @@
           .div.d-flex.justify-content-end            
             p Según Urrutia (2014)
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-10
         p.mb-4 este concepto es algo más complejo, pues está determinado por: las características ambientales que una especie tolera y requiere para sobrevivir y reproducirse, la utilización de los recursos disponibles, el tipo de alimento que consume, la posición trófica que ocupa dicha especie de organismo en el ecosistema y la forma en que es coaccionada por otras especies.
         p.mb-0 Los factores bióticos son los seres vivos que pertenecen a un ecosistema, y se clasifican en: 
@@ -38,26 +54,76 @@
     .row.justify-content-center
       .col-10
         SlyderA
-          .row.justify-content-center
-            .col-12.pb-5
-              figure
-                img(src='@/assets/curso/tema2/img03.png') 
-          .row.justify-content-center
-            .col-12.pb-5
-              figure
-                img(src='@/assets/curso/tema2/img04.png') 
-          .row.justify-content-center
-            .col-12.pb-5
-              figure
-                img(src='@/assets/curso/tema2/img05.png') 
-          .row.justify-content-center
-            .col-12.pb-5
-              figure
-                img(src='@/assets/curso/tema2/img06.png') 
-          .row.justify-content-center
-            .col-12.pb-5
-              figure
-                img(src='@/assets/curso/tema2/img07.png') 
+          .row.justify-content-center(style="position:relative").px-3
+            .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img22.png')})`}")
+              .row.justify-content-start
+                .col-lg-5.ms-5.mt-5
+                  figure.mt-4
+                    img(src='@/assets/curso/tema2/img23.png') 
+                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                  h4.mb-0.texto-blanco Función.
+                  p.texto-blanco.mb-4 Productor
+                  h4.mb-0.texto-blanco Descripción.
+                  p.texto-blanco.mb-4 Organismos autótrofos fotosintéticos, capaces de captar la energía del sol y transformarla en energía química y materia. Son la base donde inician las cadenas alimenticias.
+                  h4.mb-0.texto-blanco Organismos.
+                  p.mb-0.texto-blanco.mb-5 Plantas, algas y cianobacterias.
+
+          .row.justify-content-center(style="position:relative").px-3
+            .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img24.png')})`}")
+              .row.justify-content-start
+                .col-lg-5.ms-5.mt-5
+                  figure.mt-4
+                    img.mb-5(src='@/assets/curso/tema2/img25.png') 
+                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                  h4.mb-0 Función.
+                  p.mb-4 Consumidor primario
+                  h4.mb-0 Descripción.
+                  p.mb-4 Organismos heterótrofos herbívoros que se alimentan de hojas, semillas, frutos, madera, raíces, flores y néctar.
+                  h4.mb-0 Organismos.
+                  p.mb-0.mb-5 Insectos, mamíferos herbívoros, algunos peces, algunas aves y ciertos reptiles, entre otros.
+
+          .row.justify-content-center(style="position:relative").px-3
+            .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img26.png')})`}")
+              .row.justify-content-start
+                .col-lg-5.ms-5.mt-5
+                  figure.mt-4
+                    img.mb-5(src='@/assets/curso/tema2/img27.png') 
+                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                  h4.mb-0 Función.
+                  p.mb-4 Consumidor secundario 
+                  h4.mb-0 Descripción.
+                  p.mb-4 Organismos heterótrofos carnívoros.
+                  h4.mb-0 Organismos.
+                  p.mb-0.mb-5 Arácnidos, mamíferos carnívoros, algunos peces y reptiles.
+
+          .row.justify-content-center(style="position:relative").px-3
+            .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img28.png')})`}")
+              .row.justify-content-start
+                .col-lg-5.ms-5.mt-5
+                  figure.mt-4
+                    img.mb-5(src='@/assets/curso/tema2/img29.png') 
+                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                  h4.mb-0 Función.
+                  p.mb-4 Consumidor terciario
+                  h4.mb-0 Descripción.
+                  p.mb-0 Organismos heterótrofos carnívoros. 
+                  p.mb-0 Depredadores de gran tamaño que se alimentan de los consumidores secundarios.
+                  h4.mb-0 Organismos.
+                  p.mb-0.mb-5 Felinos, tiburones y aves depredadoras.
+          
+          .row.justify-content-center(style="position:relative").px-3
+            .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img30.png')})`}")
+              .row.justify-content-start
+                .col-lg-5.ms-5.mt-5
+                  figure.mt-4
+                    img(src='@/assets/curso/tema2/img31.png') 
+                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                  h4.mb-0.texto-blanco Función.
+                  p.texto-blanco.mb-4 Reintegradores
+                  h4.mb-0.texto-blanco Descripción.
+                  p.texto-blanco.mb-4 Organismos heterótrofos que inician el proceso de descomposición de la materia muerta.
+                  h4.mb-0.texto-blanco Organismos.
+                  p.mb-0.texto-blanco.mb-5 Bacterias, hongos e insectos, como las larvas de mosca y algunos coleópteros (escarabajos).
 
     Separador
 
@@ -65,7 +131,7 @@
       h2 2.3 Factores abióticos
 
     .row.justify-content-center
-      .col-10.mb-5
+      .col-lg-10.mb-5
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img08.png')})`}"
@@ -146,7 +212,7 @@
     p.mb-5 Es momento de precisar las diferentes variables ambientales existentes, entre ellas se encuentran: 
 
     .row.justify-content-center
-      .col-9.pb-5
+      .col-lg-9.pb-5
         figure
           img(src='@/assets/curso/tema2/img18.svg') 
     Separador

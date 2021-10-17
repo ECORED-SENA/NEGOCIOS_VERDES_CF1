@@ -1541,7 +1541,7 @@ div.mb-5
   //- estas clases tambien tienen un modificador --borde
   .tarjeta.color-acento-botones.p-4.p-md-5.mb-5
     .row.justify-content-around.align-items-center
-      .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
+      .col-lg-8.col-sm-6.col-md-4.mb-4.mb-md-0
         img(src="@/assets/componentes/ej-01.png")
 
       .col-md.col-lg-6
@@ -1558,7 +1558,7 @@ div.mb-5
   //- estas clases tambien tienen un modificador --borde
   .tarjeta.color-primario.p-3.mb-5
     .row.justify-content-around.align-items-center
-      .col-3.col-sm-2.col-lg-1
+      .col-lg-3.col-sm-2.col-lg-1
         img(src="@/assets/componentes/ej-02.svg")
       .col
         .row.justify-content-between.align-items-center
@@ -1575,7 +1575,7 @@ div.mb-5
   //- estas clases tambien tienen un modificador --borde
   .tarjeta.color-acento-botones.p-3.mb-5
     .row.justify-content-around.align-items-center
-      .col-3.col-sm-2.col-lg-1
+      .col-lg-3.col-sm-2.col-lg-1
         img(src="@/assets/componentes/ej-02.svg")
       .col
         .row.justify-content-between.align-items-center

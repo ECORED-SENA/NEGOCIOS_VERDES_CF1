@@ -7,11 +7,11 @@
         span 5
       h1 Desarrollo sostenible
 
-    .row.justify-content-center.mb-5(style="background-color: #E2E4B2 ; border-radius:15px")
-      .col-6.p-0
+    .row.justify-content-center.t5-gradiente.mb-5
+      .col-lg-6.d-flex.align-items-center.p-0
         figure
-          img(src='@/assets/curso/tema5/img01.png') 
-      .col-6.p-4.py-3
+          img(style="border-radius: 15px" src='@/assets/curso/tema5/img01.png') 
+      .col-lg-6.p-4.py-3
         p.mb-0 El desarrollo sostenible se define como el desarrollo que satisface las necesidades actuales sin comprometer los recursos y posibilidades de las generaciones futuras. Por ejemplo, cuando se realiza la tala de árboles para la fabricación de camas, sillas, mesas, lápices, papel y demás, pero al mismo tiempo se asegura la repoblación de los bosques, es considerado desarrollo sostenible, porque se ha hecho uso del recurso natural existente para la satisfacción de las necesidades de la sociedad actual, y a su vez, se está garantizando, por medio de la repoblación, los árboles para las generaciones futuras. 
         p.mb-4 La Organización de las Naciones Unidas (ONU), en su agenda para el desarrollo sostenible, lo define como: 
         p.mb-0 la capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades. Así mismo indica que el desarrollo sostenible exige esfuerzos concentrados en construir un futuro inclusivo, sostenible y resiliente para las personas y el planeta.

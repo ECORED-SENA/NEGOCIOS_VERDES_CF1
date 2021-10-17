@@ -7,16 +7,45 @@
         span 6
       h1 Guías ambientales
 
-    figure
-      img(src='@/assets/curso/tema6/img01.png')  
+    .row(style="position:relative; width:100%")
+        .col-lg-12
+          figure
+            img(style="border-radius: 9px" src='@/assets/curso/tema6/img04.png')
+          .row(style="position:absolute; bottom:0%; width:100%") 
+            .col-lg-8.p-4.t2-gradiente
+              .row
+                .col-lg-9
+                  p.mb-0 Las guías ambientales son instrumentos técnicos en donde se consolidan esquemas para el mejoramiento de la gestión, manejo y desempeño ambiental de los sectores productivos. Así mismo, se consideran mecanismos de autogestión, de consulta y de referencia de carácter conceptual y metodológico para las autoridades ambientales, así como para la ejecución o desarrollo de proyectos, obras o actividades.
+    
 
     Separador
 
       
     #t_6_1.titulo-segundo
       h2 6.1  Objetivos
-    figure
-      img(src='@/assets/curso/tema6/img02.png')  
+    figure.mb-5
+      img(src='@/assets/curso/tema6/img09.png') 
+    div.d-none.d-lg-block
+      .row.justify-content-center
+        .col-lg-9
+          figure.mb-3
+            img(src='@/assets/curso/tema6/img08.svg')  
+    .row.justify-content-center
+      .col-lg-3
+        figure.mb-3.d-lg-none
+          img(src='@/assets/curso/tema6/img05.svg')  
+        p.px-3.mb-4 Conocer los requisitos establecidos en la legislación ambiental, así como establecer reglas claras para mejorar el desempeño ambiental.
+
+      .col-lg-3
+        figure.mb-3.d-lg-none
+          img(src='@/assets/curso/tema6/img06.svg')  
+        p.px-3.mb-4 Orientar la implementación de medidas de producción más limpia; así como la elaboración de planes de manejo ambiental y mejor aprovechamiento de los recursos naturales.
+
+      .col-lg-3
+        figure.mb-3.d-lg-none
+          img(src='@/assets/curso/tema6/img07.svg')  
+        p.px-3.mb-4 Lograr en el corto, mediano y largo plazo la sostenibilidad, competitividad y productividad que permitan mejorar las relaciones con el entorno natural.
+
     Separador
 
     #t_6_2.titulo-segundo

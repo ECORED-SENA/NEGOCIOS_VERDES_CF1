@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="925" height="44" viewBox="0 0 925 44">
+  <g id="Grupo_62359" data-name="Grupo 62359" transform="translate(-285 -1498)">
+    <path id="Trazado_119515" data-name="Trazado 119515" d="M920.428,147.655H4.573c-2.517,0-4.573-1.521-4.573-3.379s2.057-3.38,4.573-3.38H920.428c2.515,0,4.572,1.52,4.572,3.38s-2.057,3.379-4.572,3.379" transform="translate(285 1374.744)" fill="#cfcfcf"/>
+    <circle id="Elipse_1278" data-name="Elipse 1278" cx="22" cy="22" r="22" transform="translate(412 1498)" fill="#a0a603"/>
+    <text id="_1" data-name="1" transform="translate(425 1530)" fill="#fff" font-size="30" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">1</tspan></text>
+    <g id="Grupo_62356" data-name="Grupo 62356" transform="translate(-29)">
+      <g id="Grupo_62354" data-name="Grupo 62354">
+        <circle id="Elipse_1279" data-name="Elipse 1279" cx="22" cy="22" r="22" transform="translate(755 1498)" fill="#529ad9"/>
+      </g>
+      <text id="_2" data-name="2" transform="translate(768 1530)" fill="#fff" font-size="30" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <g id="Grupo_62358" data-name="Grupo 62358" transform="translate(-40)">
+      <g id="Grupo_62355" data-name="Grupo 62355">
+        <g id="Grupo_62357" data-name="Grupo 62357">
+          <circle id="Elipse_1280" data-name="Elipse 1280" cx="22" cy="22" r="22" transform="translate(1080 1498)" fill="#d9ae79"/>
+        </g>
+      </g>
+      <text id="_3" data-name="3" transform="translate(1093 1530)" fill="#fff" font-size="30" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -108,23 +108,23 @@
     
     SlyderA
       .row.justify-content-center
-        .col-10.pb-5
+        .col-lg-10.pb-5
           .row.justify-content-center
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img02.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
                   div.p-4
                     h4.text-center Ecología de comunidades
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Estudia las interacciones entre las especies. Uno de los objetivos más importantes de la ecología de comunidades es entender el origen, el mantenimiento y las consecuencias de la diversidad dentro de comunidades ecológicas.
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img03.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
                   div.p-4
                     h4.text-center Ecología evolutiva
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Se dedica al estudio de la selección natural y de la evolución de las poblaciones.
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img04.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
@@ -132,23 +132,23 @@
                     h4.text-center Ecología de comunidades
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Estudia las interacciones entre las especies. Uno de los objetivos más importantes de la ecología de comunidades es entender el origen, el mantenimiento y las consecuencias de la diversidad dentro de comunidades ecológicas.
       .row.justify-content-center
-        .col-10.pb-5
+        .col-lg-10.pb-5
           .row.justify-content-center
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img05.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
                   div.p-4
                     h4.text-center Ecología fisiológica
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Se ocupa de las respuestas de cada organismo a la temperatura, humedad, luz y otras condiciones ambientales.
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img06.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
                   div.p-4
                     h4.text-center Ecología del comportamiento
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Observa la historia natural y el comportamiento de los organismos.
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img07.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
@@ -156,23 +156,23 @@
                     h4.text-center Ecología del paisaje
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Explora los procesos espaciales que relacionan comunidades y ecosistemas adyacentes.
       .row.justify-content-center
-        .col-10.pb-5
+        .col-lg-10.pb-5
           .row.justify-content-center
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img08.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
                   div.p-4
                     h4.text-center Ecología de la conservación 
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Aplica principios de diversos campos, desde la ecología a la economía y la sociología, para el mantenimiento de la diversidad biológica.
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img09.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
                   div.p-4
                     h4.text-center Ecología de la restauración 
                     p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Emplea los principios de desarrollo y función de los ecosistemas en la gestión de tierras dañadas. 
-            .col-4.d-flex
+            .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img10.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
@@ -256,20 +256,20 @@
       .col-8
         div.p-3.t1-div1.mb-4
           .row.justify-content-center
-            .col-2.t1-div2 
+            .col-lg-2.t1-div2 
               figure
                 img(src='@/assets/curso/tema1/img17.png') 
-            .col-10.d-flex.align-items-center
+            .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Sinecología: </b>
                 p.mb-0 estudia las relaciones entre las diversas especies que pertenecen a un mismo grupo y a un mismo ambiente. Por ejemplo, los pinos de un bosque, que son la vivienda y alimento de las ardillas, que a su vez son alimento de las águilas. En este caso, la sinecología identifica las especies que componen este sistema y la relación que existe entre todas estas especies, así como la que tienen con su medio ambiente.
 
         div.p-3.t1-div1.mb-4
           .row.justify-content-center
-            .col-2.t1-div2 
+            .col-lg-2.t1-div2 
               figure
                 img(src='@/assets/curso/tema1/img18.png') 
-            .col-10.d-flex.align-items-center
+            .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Autoecología:  </b>
                 p.mb-0 se encarga del estudio de las relaciones entre una sola especie de organismos y el medio ambiente donde vive. Por ejemplo, sólo aborda las relaciones que establecen las ardillas con los pinos del bosque, señaladas en el ejemplo anterior. 
@@ -277,30 +277,30 @@
 
         div.p-3.t1-div1.mb-4
           .row.justify-content-center
-            .col-2.t1-div2 
+            .col-lg-2.t1-div2 
               figure
                 img(src='@/assets/curso/tema1/img19.png') 
-            .col-10.d-flex.align-items-center
+            .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Ecología de poblaciones: </b>
                 p.mb-0 estudio de la dinámica de una población en el medio ambiente donde esta vive. Por ejemplo, estudios sobre el número, el sexo y la edad de las águilas, pinos o ardillas (según el área de interés); así como si hay cambios en estos datos con el tiempo. Recuerde que una población es el conjunto de individuos de la misma especie que ocupan un lugar y tiempo determinados.
 
         div.p-3.t1-div1.mb-4
           .row.justify-content-center
-            .col-2.t1-div2 
+            .col-lg-2.t1-div2 
               figure
                 img(src='@/assets/curso/tema1/img20.png') 
-            .col-10.d-flex.align-items-center
+            .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Ecología de sistemas:</b>
                 p.mb-0 utiliza herramientas matemáticas, computacionales y otros recursos tecnológicos para elaborar modelos que permitan explicar las complejidades en las relaciones ecológicas. 
 
         div.p-3.t1-div1
           .row.justify-content-center
-            .col-2.t1-div2 
+            .col-lg-2.t1-div2 
               figure
                 img(src='@/assets/curso/tema1/img21.png') 
-            .col-10.d-flex.align-items-center
+            .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Ecología aplicada: </b>
                 p.mb-0 se refiere a las acciones del ser humano derivadas del conocimiento de la ecología, y que son encaminadas a la protección del medio ambiente y al equilibrio de los ecosistemas.
