@@ -41,17 +41,38 @@
       .col-lg-1
       .col-lg-10
         p.mb-5 Las acciones que se ejecutarán para el cumplimiento de las metas y los objetivos en los próximos años se centran en: 
-    .row.justify-content-start(style="position:relative")
-      .col-lg-1
-      .col-lg-6        
-        figure
-          img(src='@/assets/curso/tema5/img05.png') 
-      .col-lg-4     
-         p.mb-0(Style="position:absolute; top: 12%; left: 58%") Las personas, para lograr la dignidad e igualdad<br>para todas las personas.   ç
-         p.mb-0(Style="position:absolute; top: 26%; left: 58%") El planeta, por su conservación y protección.  
-         p.mb-0(Style="position:absolute; top: 34.5%; left: 58%") La prosperidad, para disfrutar de una vida próspera<br>en armonía con la naturaleza. 
-         p.mb-0(Style="position:absolute; top: 46.5%; left: 58%") La paz, para propiciar sociedades pacíficas, justas e<br>inclusivas.
-         p.mb-0(Style="position:absolute; top: 57%; left: 58%") Las alianzas, con el fin de crear alianzas entre los<br>diferentes actores, basados en los principios<br>solidarios. 
+    div.d-none.d-lg-block
+      .row.justify-content-start(style="position:relative")
+        .col-lg-1
+        .col-lg-6        
+          figure
+            img(src='@/assets/curso/tema5/img05.png') 
+        .col-lg-4     
+          p.mb-0(Style="position:absolute; top: 12%; left: 58%") Las personas, para lograr la dignidad e igualdad<br>para todas las personas. 
+          p.mb-0(Style="position:absolute; top: 26%; left: 58%") El planeta, por su conservación y protección.  
+          p.mb-0(Style="position:absolute; top: 34.5%; left: 58%") La prosperidad, para disfrutar de una vida próspera<br>en armonía con la naturaleza. 
+          p.mb-0(Style="position:absolute; top: 46.5%; left: 58%") La paz, para propiciar sociedades pacíficas, justas e<br>inclusivas.
+          p.mb-0(Style="position:absolute; top: 57%; left: 58%") Las alianzas, con el fin de crear alianzas entre los<br>diferentes actores, basados en los principios<br>solidarios. 
+
+    div.d-lg-none
+      .row.justify-content-center                 
+        .col-lg-4     
+          ul.lista-ul--color
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | Las personas, para lograr la dignidad e igualdad<br>para todas las personas. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | El planeta, por su conservación y protección.  
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La prosperidad, para disfrutar de una vida próspera<br>en armonía con la naturaleza. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La paz, para propiciar sociedades pacíficas, justas e<br>inclusivas.
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | Las alianzas, con el fin de crear alianzas entre los<br>diferentes actores, basados en los principios<br>solidarios.          
 
     Separador
 
