@@ -60,7 +60,7 @@
                 .col-lg-5.ms-5.mt-5
                   figure.mt-4
                     img(src='@/assets/curso/tema2/img23.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
                   h4.mb-0.texto-blanco Función.
                   p.texto-blanco.mb-4 Productor
                   h4.mb-0.texto-blanco Descripción.
@@ -74,7 +74,7 @@
                 .col-lg-5.ms-5.mt-5
                   figure.mt-4
                     img.mb-5(src='@/assets/curso/tema2/img25.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
                   h4.mb-0 Función.
                   p.mb-4 Consumidor primario
                   h4.mb-0 Descripción.
@@ -88,7 +88,7 @@
                 .col-lg-5.ms-5.mt-5
                   figure.mt-4
                     img.mb-5(src='@/assets/curso/tema2/img27.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
                   h4.mb-0 Función.
                   p.mb-4 Consumidor secundario 
                   h4.mb-0 Descripción.
@@ -102,7 +102,7 @@
                 .col-lg-5.ms-5.mt-5
                   figure.mt-4
                     img.mb-5(src='@/assets/curso/tema2/img29.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
                   h4.mb-0 Función.
                   p.mb-4 Consumidor terciario
                   h4.mb-0 Descripción.
@@ -117,7 +117,7 @@
                 .col-lg-5.ms-5.mt-5
                   figure.mt-4
                     img(src='@/assets/curso/tema2/img31.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-70px; color:white")
+                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
                   h4.mb-0.texto-blanco Función.
                   p.texto-blanco.mb-4 Reintegradores
                   h4.mb-0.texto-blanco Descripción.

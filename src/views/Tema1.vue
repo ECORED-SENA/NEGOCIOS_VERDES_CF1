@@ -186,21 +186,57 @@
       h2 1.2  Aplicaciones
 
     p.mb-5 Teniendo en cuenta el desarrollo que a través de los años ha presentado el concepto de ecología y los aspectos o campos en los cuales tiene incidencia, se puede afirmar que dentro de las aplicaciones de esta ciencia se destacan: 
-    .row.justify-content-start.mb-5(style="position:relative")
-      .col-1
-      .col-6
-        figure
-          img(src='@/assets/curso/tema1/img22.png') 
-        p.mb-0(Style="position:absolute; top: 12%; left: 58%") La conservación del medio ambiente. 
-        p.mb-0(Style="position:absolute; top: 21.5%; left: 58%") El manejo de recursos naturales y humedales.
-        p.mb-0(Style="position:absolute; top: 30.5%; left: 58%") La planificación urbana. 
-        p.mb-0(Style="position:absolute; top: 40%; left: 58%") La salud comunitaria. 
-        p.mb-0(Style="position:absolute; top: 49%; left: 58%") La economía. 
-        p.mb-0(Style="position:absolute; top: 56.5%; left: 58%") La interacción social. 
-        p.mb-0(Style="position:absolute; top: 65%; left: 58%") La agricultura.
-        p.mb-0(Style="position:absolute; top: 73%; left: 58%") La ganadería. 
-        p.mb-0(Style="position:absolute; top: 81.5%; left: 58%") Procesos industriales.
-        p.mb-0(Style="position:absolute; top: 89%; left: 58%") La política.
+    div.d-none.d-lg-block
+      .row.justify-content-start.mb-5(style="position:relative")
+        .col-1
+        .col-6
+          figure
+            img(src='@/assets/curso/tema1/img22.png') 
+          p.mb-0(Style="position:absolute; top: 12%; left: 58%") La conservación del medio ambiente. 
+          p.mb-0(Style="position:absolute; top: 21.5%; left: 58%") El manejo de recursos naturales y humedales.
+          p.mb-0(Style="position:absolute; top: 30.5%; left: 58%") La planificación urbana. 
+          p.mb-0(Style="position:absolute; top: 40%; left: 58%") La salud comunitaria. 
+          p.mb-0(Style="position:absolute; top: 49%; left: 58%") La economía. 
+          p.mb-0(Style="position:absolute; top: 56.5%; left: 58%") La interacción social. 
+          p.mb-0(Style="position:absolute; top: 65%; left: 58%") La agricultura.
+          p.mb-0(Style="position:absolute; top: 73%; left: 58%") La ganadería. 
+          p.mb-0(Style="position:absolute; top: 81.5%; left: 58%") Procesos industriales.
+          p.mb-0(Style="position:absolute; top: 89%; left: 58%") La política.
+
+    div.d-lg-none
+      .row.justify-content-center                 
+        .col-lg-4     
+          ul.lista-ul--color
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La conservación del medio ambiente. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | El manejo de recursos naturales y humedales.
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La planificación urbana. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La salud comunitaria. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La economía. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La interacción social. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La agricultura.
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La ganadería. 
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | Procesos industriales.
+            li 
+              i.fas.fa-circle(style="color: #A0A603 !important")
+              | La política.
 
     p.mb-5 Por otra parte, se puede mencionar que:
     .row.justify-content-center
