@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Diagnóstico del entorno ambiental.',
+    componenteFormativo: 'Diagnóstico del entorno ambiental',
     descripcionCurso:
       'Actualmente, el medio ambiente es uno de los temas con mayor relevancia a nivel mundial. Constantemente, las organizaciones gubernamentales y no gubernamentales estudian estrategias para lograr el desarrollo económico y social sin dejar de un lado el cuidado, protección y conservación de este.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -89,7 +89,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Plan de manejo ambiental (PMA)',
+        titulo: 'Plan de Manejo Ambiental (PMA)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -252,141 +252,98 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'CEUPE - Centro Europeo de Postgrado. (s.f.). Variables ambientales. Madrid, España.',
+    },
+    {
+      referencia:
+        'De Pablo, C., & Martín de Agar, P. (2005). La Ecología y sus aplicaciones: la Ciencia de la Ecología. Madrid.',
+    },
+    {
+      referencia: 'García, L. (2014). Ecología y medio ambiente. Pearson.',
+    },
+    {
+      referencia:
+        'Ministerio del Medio Ambiente y Desarrollo Sostenible. (2020). www.minambiente.gov.co. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.minambiente.gov.co/index.php/negocios-verdes-y-sostenibles',
+    },
+    {
+      referencia: 'ORGANIZACIÓN DE LAS NACIONES UNIDAS. (2015). www.un.org. ',
+      link: 'https://www.un.org/sustainabledevelopment/es/development-agenda/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Odum, E. P. (1972). Ecología. Ciudad de Mexico: Nueva Editorial Interamericana S.A.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Oficina de Gestión Ambiental Alcaldía Local de Tunjuelito. (2009). Guía tecnica para la elaboración de Planes de Manejo Ambiental (PMA). Bogotá.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Secretaría de Medio Ambiente y Recursos Naturales. (2016). Indicadores básicos del desempeño ambiental de México. Ciudad de México.',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Smith, T., & Smith, R. (6° edición). (2007). Ecología. Madrid: PEARSON EDUCACIÓN, S. A.',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'UNESCO. (2015). Los Objetivos de Desarrollo Sostenible (ODS).',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Urrutia, A. L. (2014). Ecología y medio ambiente. McGraw-Hill Education.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Desarrollo sostenible ',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Ecología',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'El conjunto de conocimientos referentes a la economía de la naturaleza, la investigación de todas las relaciones del animal, tanto con su medio inorgánico como orgánico, incluyendo sobre todo su relación amistosa y hostil con aquellos animales y plantas con los que se relaciona directa o indirectamente.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Factores abióticos	',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Son los distintos componentes que determinan el espacio físico en el cual habitan los seres vivos; entre los más importantes podemos encontrar: el agua, la temperatura, la luz, el pH, el suelo, la humedad, el aire (sin el cual muchos seres vivos no podrían vivir) y los nutrientes.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'Factores bióticos	 ',
+      significado: 'Son todos los seres vivos y su interacción entre ellos.',
     },
     {
-      termino: 'Moda',
+      termino: 'Indicador ambiental	',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Es un parámetro o valor derivado de parámetros, que proporciona información para describir el estado de un fenómeno, ambiente o área, con un significado que va más allá del directamente asociado con el valor del parámetro en sí mismo.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Medio ambiente',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Sistema que abarca todas las relaciones entre los seres vivos y no vivos que interactúan naturalmente.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Plan de Manejo Ambiental (PMA)',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conjunto detallado de actividades, que producto de una evaluación ambiental, están orientadas a prevenir, mitigar, corregir o compensar los impactos y efectos ambientales que se causen por el desarrollo de un proyecto, obra o actividad. Incluye los planes de seguimiento, monitoreo, contingencia y abandono, según la naturaleza del proyecto, obra o actividad.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Naciones Unidas. (2015). Importancia de los Objetivos de Desarrollo Sostenible.',
+      tipo: 'PDF>',
+      descarga: '/downloads/Importancia_Objetivos_Desarrollo_Sostenible.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'UNESCO. (2017). Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos.',
+      tipo: 'Vídeo YouTube',
+      link: 'https://youtu.be/MCKH5xk8X-g',
     },
   ],
   creditos: {
@@ -402,7 +359,33 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Kateryn Valderrama Varón',
+        cargo: 'Experta temática',
+        centro: 'Centro de Comercio y servicios - Regional Tolima',
+      },
+      {
+        nombre: 'José Gregorio Ramírez',
+        cargo: 'Experto temático',
+        centro: 'Centro de Comercio y servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Bogotá',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Bogotá',
+      },
+      {
+        nombre: 'Adriana Lozano Zapata',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -410,36 +393,41 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
+        nombre: 'Anllelo Andrés Reina Montañez',
+        cargo: 'Diseño web ',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Edgar Mauricio Cortés',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

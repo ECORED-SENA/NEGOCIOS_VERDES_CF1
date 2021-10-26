@@ -14,10 +14,10 @@
       .col-lg-6.p-4.py-3
         p.mb-0 El desarrollo sostenible se define como el desarrollo que satisface las necesidades actuales sin comprometer los recursos y posibilidades de las generaciones futuras. Por ejemplo, cuando se realiza la tala de árboles para la fabricación de camas, sillas, mesas, lápices, papel y demás, pero al mismo tiempo se asegura la repoblación de los bosques, es considerado desarrollo sostenible, porque se ha hecho uso del recurso natural existente para la satisfacción de las necesidades de la sociedad actual, y a su vez, se está garantizando, por medio de la repoblación, los árboles para las generaciones futuras. 
         p.mb-4 La Organización de las Naciones Unidas (ONU), en su agenda para el desarrollo sostenible, lo define como: 
-        p.mb-0 la capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades. Así mismo indica que el desarrollo sostenible exige esfuerzos concentrados en construir un futuro inclusivo, sostenible y resiliente para las personas y el planeta.
+        p.mb-0 La capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades. Así mismo indica que el desarrollo sostenible exige esfuerzos concentrados en construir un futuro inclusivo, sostenible y resiliente para las personas y el planeta.
       
     p.mb-4 Para alcanzar el desarrollo sostenible, es fundamental armonizar tres elementos básicos: el crecimiento económico, la inclusión social y la protección del medio ambiente. Estos elementos están interrelacionados y son todos esenciales para el bienestar de las personas y las sociedades. 
-    p.mb-0 La erradicación de la pobreza en todas sus formas y dimensiones es una condición indispensable para lograr el desarrollo sostenible. A tal fin, debe promoverse un crecimiento económico sostenible, inclusivo y equitativo, que cree mayores oportunidades para todos, que reduzca las desigualdades, mejore los niveles de vida básicos, fomente el desarrollo social equitativo e inclusivo y promueva la ordenación integrada y sostenible de los recursos naturales y los ecosistemas (Naciones Unidas , 2015).
+    p.mb-0 La erradicación de la pobreza en todas sus formas y dimensiones es una condición indispensable para lograr el desarrollo sostenible. A tal fin, debe promoverse un crecimiento económico sostenible, inclusivo y equitativo, que cree mayores oportunidades para todos, que reduzca las desigualdades, mejore los niveles de vida básicos, fomente el desarrollo social equitativo e inclusivo y promueva la ordenación integrada y sostenible de los recursos naturales y los ecosistemas (Naciones Unidas, 2015).
 
     Separador
       
@@ -79,7 +79,7 @@
     #t_5_3.titulo-segundo
       h2 5.3  Objetivos de Desarrollo Sostenible 
 
-    p.mb-4 En la Agenda 2030 Objetivos del Desarrollo Sostenible de la ONU, se contemplan 17objetivos, los cuales deben cumplirse en todos los países miembros del organización. 
+    p.mb-4 En la Agenda 2030 Objetivos del Desarrollo Sostenible de la ONU, se contemplan 17objetivos, los cuales deben cumplirse en todos los países miembros de la organización. 
     p.mb-4 Estos objetivos son el plan maestro para conseguir un futuro sostenible para todos. Se interrelacionan entre sí e incorporan los desafíos globales a los que nos enfrentamos día a día, como la pobreza, la desigualdad, el clima, la degradación ambiental, la prosperidad, la paz y la justicia. Los objetivos son: 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -147,7 +147,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p <b>Enlace web.</b>  Video objetivos de desarrollo sostenible 
+            p <b>Enlace web.</b>  Video Objetivos de Desarrollo Sostenible 
         
 
     Separador

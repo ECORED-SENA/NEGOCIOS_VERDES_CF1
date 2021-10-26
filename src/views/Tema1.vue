@@ -15,7 +15,7 @@
     .row.justify-content-center
       .col-lg-6
         .cajon.color-acento-contenido.p-4
-          p.mb-4 La ecología, al igual que otras ciencias, ha sido desarrollada desde la antigüedad por diferentes autores y se transforma conforme a las necesidades humanas. El término ecología se deriva del vocablo griego oikos, que significa casa o lugar donde se vive y la terminación logos hace referencia al estudio de una cierta materia, por lo tanto, la ecología consistiría en la economía doméstica de la naturaleza, la amplia casa en la cual vivimos (Odum, 1972, pág. 40). 
+          p.mb-4 La ecología, al igual que otras ciencias, ha sido desarrollada desde la antigüedad por diferentes autores y se transforma conforme a las necesidades humanas. El término ecología se deriva del vocablo griego <i>oikos</i>, que significa casa o lugar donde se vive y la terminación logos hace referencia al estudio de una cierta materia, por lo tanto, la ecología consistiría en la economía doméstica de la naturaleza, la amplia casa en la cual vivimos. (Odum, 1972, pág. 40). 
           p.mb-0 En otras palabras, la ecología se puede definir como el estudio de las relaciones entre los organismos y el medio ambiente o el entorno en el cual viven. 
       .col-lg-6
         p.mb-4 La definición de ecología de Ernst Haeckel, publicada en uno de sus trabajos, en 1870, dice así: 
@@ -83,7 +83,7 @@
             | Pioneros en la ecología animal en EE.UU. Imprimen nuevo rumbo a la ecología a partir de la interrelación entre las platas y los animales. 
           li 
             i.lista-ul__vineta
-            | Adams publicó el primer libro sobre ecología animal, A Guide to the Study of Animal Ecology (1913). Shelford escribió Animal Communities in Temperate America (1913).
+            | Adams publicó el primer libro sobre ecología animal, <i>A Guide to the Study of Animal Ecology</i> (1913). Shelford escribió <i>Animal Communities in Temperate America</i> (1913).
       .div(numero="1935" titulo="Arthur G. Tansley")
         ul.lista-ul--color
           li 
@@ -93,16 +93,16 @@
         ul.lista-ul--color
           li 
             i.lista-ul__vineta
-            | Propone ideas acerca de los niveles de reciclado de nutrientes orgánicos y de alimentación, usando los términos productores y consumidores
+            | Propone ideas acerca de los niveles de reciclado de nutrientes orgánicos y de alimentación, usando los términos productores y consumidores.
           li 
             i.lista-ul__vineta
-            | Escribió «The Trophic-Dynamic Aspects of Ecology» (Los aspectos trófico-dinámicos de la ecología) , el cual señaló el comienzo de la ecología de los ecosistemas, o el estudio de todos los sistemas vivos.
+            | Escribió «<i>The Trophic-Dynamic Aspects of Ecology</i>» (Los aspectos trófico-dinámicos de la ecología) , el cual señaló el comienzo de la ecología de los ecosistemas, o el estudio de todos los sistemas vivos.
       
       .div(numero="1949" titulo="W. C. Allee A. E. Emerson, Thomas Park, Orlando Park y K. P. Schmidt  - (Enciclopédicos)")
         ul.lista-ul--color
           li 
             i.lista-ul__vineta
-            | "Principles of Animal Ecology" , señalaban  el rumbo que debía tomar la ecología moderna. En este se enfatizaban las relaciones de alimentación y los presupuestos de energía, la dinámica poblacional y la selección y evolución naturales.
+            p.mb-0 "<i>Principles of Animal Ecology</i>" , señalaban  el rumbo que debía tomar la ecología moderna. En este se enfatizaban las relaciones de alimentación y los presupuestos de energía, la dinámica poblacional y la selección y evolución naturales.
       
     p.mb-5 Como se puede evidenciar, la importancia del término ha sido cada vez más relevante y ha despertado la necesidad de estudiar los diversos factores que participan. Es así como a partir del siglo XX se empiezan a identificar los diversos campos de la ecología, como se observa a continuación y entre los cuales se destacan: 
     
@@ -115,8 +115,8 @@
                 img(src='@/assets/curso/tema1/img02.svg' alt='AvatarTop')               
                 .tarjeta.color-acento-botones
                   div.p-4
-                    h4.text-center Ecología de comunidades
-                    p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Estudia las interacciones entre las especies. Uno de los objetivos más importantes de la ecología de comunidades es entender el origen, el mantenimiento y las consecuencias de la diversidad dentro de comunidades ecológicas.
+                    h4.text-center Ecología de poblaciones
+                    p.mb-0.pt-1.text-center(style="border-top: 2px solid #4491E5") Se ocupa del crecimiento de la población, incluye tasas de natalidad y de mortalidad, fluctuación, dispersión e interacciones de la población.
             .col-lg-4.d-flex
               .tarjeta-avatar
                 img(src='@/assets/curso/tema1/img03.svg' alt='AvatarTop')               
@@ -243,7 +243,7 @@
       .col-10
         .bloque-texto-c.color-acento-botones.p-4
           i.fas.fa-quote-right
-          h4.mb-2.px-4 el ámbito de aplicación de la ecología, abarca aspectos tales como la conservación de la naturaleza, la evaluación de impactos ambientales, la extinción y reintroducción de animales y plantas, los espacios naturales protegidos, la contaminación del aire y del agua, el reciclaje, la restauración del medio natural –sobre todo después de la construcción de grandes infraestructuras–, los incendios forestales, el calentamiento global, la capa de ozono y el desarrollo sostenible.
+          h4.mb-2.px-4 El ámbito de aplicación de la ecología, abarca aspectos tales como la conservación de la naturaleza, la evaluación de impactos ambientales, la extinción y reintroducción de animales y plantas, los espacios naturales protegidos, la contaminación del aire y del agua, el reciclaje, la restauración del medio natural –sobre todo después de la construcción de grandes infraestructuras–, los incendios forestales, el calentamiento global, la capa de ozono y el desarrollo sostenible.
           .div.d-flex.justify-content-end            
             p (de Pablo & Martín de Agar, 2005, pág. 80).
     Separador
@@ -308,7 +308,7 @@
             .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Sinecología: </b>
-                p.mb-0 estudia las relaciones entre las diversas especies que pertenecen a un mismo grupo y a un mismo ambiente. Por ejemplo, los pinos de un bosque, que son la vivienda y alimento de las ardillas, que a su vez son alimento de las águilas. En este caso, la sinecología identifica las especies que componen este sistema y la relación que existe entre todas estas especies, así como la que tienen con su medio ambiente.
+                p.mb-0 Estudia las relaciones entre las diversas especies que pertenecen a un mismo grupo y a un mismo ambiente. Por ejemplo, los pinos de un bosque, que son la vivienda y alimento de las ardillas, que a su vez son alimento de las águilas. En este caso, la sinecología identifica las especies que componen este sistema y la relación que existe entre todas estas especies, así como la que tienen con su medio ambiente.
 
         div.p-3.t1-div1.mb-4
           .row.justify-content-center
@@ -318,7 +318,7 @@
             .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Autoecología:  </b>
-                p.mb-0 se encarga del estudio de las relaciones entre una sola especie de organismos y el medio ambiente donde vive. Por ejemplo, sólo aborda las relaciones que establecen las ardillas con los pinos del bosque, señaladas en el ejemplo anterior. 
+                p.mb-0 Se encarga del estudio de las relaciones entre una sola especie de organismos y el medio ambiente donde vive. Por ejemplo, sólo aborda las relaciones que establecen las ardillas con los pinos del bosque, señaladas en el ejemplo anterior. 
 
 
         div.p-3.t1-div1.mb-4
@@ -329,7 +329,7 @@
             .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Ecología de poblaciones: </b>
-                p.mb-0 estudio de la dinámica de una población en el medio ambiente donde esta vive. Por ejemplo, estudios sobre el número, el sexo y la edad de las águilas, pinos o ardillas (según el área de interés); así como si hay cambios en estos datos con el tiempo. Recuerde que una población es el conjunto de individuos de la misma especie que ocupan un lugar y tiempo determinados.
+                p.mb-0 Estudio de la dinámica de una población en el medio ambiente donde esta vive. Por ejemplo, estudios sobre el número, el sexo y la edad de las águilas, pinos o ardillas (según el área de interés); así como si hay cambios en estos datos con el tiempo. Recuerde que una población es el conjunto de individuos de la misma especie que ocupan un lugar y tiempo determinados.
 
         div.p-3.t1-div1.mb-4
           .row.justify-content-center
@@ -339,7 +339,7 @@
             .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Ecología de sistemas:</b>
-                p.mb-0 utiliza herramientas matemáticas, computacionales y otros recursos tecnológicos para elaborar modelos que permitan explicar las complejidades en las relaciones ecológicas. 
+                p.mb-0 Utiliza herramientas matemáticas, computacionales y otros recursos tecnológicos para elaborar modelos que permitan explicar las complejidades en las relaciones ecológicas. 
 
         div.p-3.t1-div1
           .row.justify-content-center
@@ -349,7 +349,7 @@
             .col-lg-10.d-flex.align-items-center
               div
                 p.mb-0 <b>Ecología aplicada: </b>
-                p.mb-0 se refiere a las acciones del ser humano derivadas del conocimiento de la ecología, y que son encaminadas a la protección del medio ambiente y al equilibrio de los ecosistemas.
+                p.mb-0 Se refiere a las acciones del ser humano derivadas del conocimiento de la ecología, y que son encaminadas a la protección del medio ambiente y al equilibrio de los ecosistemas.
 
 
     Separador

@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Plan de manejo ambiental (PMA)
+      h1 Plan de Manejo Ambiental (PMA)
 
     .row.justify-content-center
       .col-9
@@ -32,7 +32,7 @@
 
     #t_3_2.titulo-segundo
       h2 3.2  Contenido del PMA
-    p.mb-5 El plan de manejo ambiental debe contar con los siguientes elementos: 
+    p.mb-5 El Plan de Manejo Ambiental debe contar con los siguientes elementos: 
     .row.justify-content-start
       .col-5
         figure
@@ -85,7 +85,7 @@
         figure.mb-5 
           img(src='@/assets/curso/tema3/img04.png') 
 
-        p.mb-4 De acuerdo con la Oficina de Gestión Ambiental de la alcaldía local de Tunjuelito (2009), el Plan de Manejo Ambiental se debe elaborar teniendo en cuenta lo establecido en la Constitución Política Colombiana, que incluye artículos que de manera directa o indirecta tienen que ver con la conservación y preservación del medio ambiente, la Ley 99 de 1.993, por la cual se creó el Sistema Nacional Ambiental (SINA) y en particular el Decreto 1220 de 2005, por el cual se reglamenta el título VIII de la ley 99 de 1993, sobre licencias ambientales.
+        p.mb-4 De acuerdo con la Oficina de Gestión Ambiental de la Alcaldía Local de Tunjuelito (2009), el Plan de Manejo Ambiental se debe elaborar teniendo en cuenta lo establecido en la Constitución Política Colombiana, que incluye artículos que de manera directa o indirecta tienen que ver con la conservación y preservación del medio ambiente, la Ley 99 de 1.993, por la cual se creó el Sistema Nacional Ambiental (SINA) y en particular el Decreto 1220 de 2005, por el cual se reglamenta el título VIII de la ley 99 de 1993, sobre licencias ambientales.
         p.mb-0 En adición debe contemplar la normativa relacionada con el recurso hídrico, el aire, el suelo, la flora y fauna, el paisaje, los recursos energéticos, los residuos sólidos, el ruido, y los aspectos sociales, culturales y económicos.
     Separador
 

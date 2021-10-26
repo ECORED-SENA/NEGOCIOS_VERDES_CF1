@@ -25,7 +25,7 @@
           figure
             img(src='@/assets/curso/tema7/img02.svg')
         .col-lg-9
-          p.mb-4 en materia ambiental ordena que las instituciones del gobierno protejan el medio ambiente y que la ley permita a los ciudadanos participar en las decisiones que afectan su derecho a un medio ambiente adecuado. 
+          p.mb-4 En materia ambiental ordena que las instituciones del gobierno protejan el medio ambiente y que la ley permita a los ciudadanos participar en las decisiones que afectan su derecho a un medio ambiente adecuado. 
           p.mb-0 Asimismo, la promoción de la protección ambiental y el desarrollo sostenible encuentran su base en la Constitución Política de 1991, que a través de su artículo 79 tutela el ambiente sano, garantizando la participación de la comunidad en las decisiones que puedan afectarlo. Mientras tanto, el artículo 95 determina que toda persona está obligada a proteger los recursos culturales y naturales del país y velar por la conservación de un ambiente sano. Establece también que el Estado debe planificar el manejo y aprovechamiento sostenible de los recursos naturales para garantizar el desarrollo sostenible por medio del artículo 80, y le da prioridad al espacio público mediante el artículo 82.  
       .row.justify-content-center(titulo="Ley 23 de 1973 ")
         .col-lg-2
@@ -109,6 +109,42 @@
     .row.justify-content-center.mb-5 
       .col-lg-10
         .tarjeta-avatar
+          img(src='@/assets/curso/tema7/img20.png' alt='AvatarTop')               
+          .tarjeta.color-acento-botones(style="width:100%")
+            div.p-4
+              h4.text-center Aire
+              ul.lista-ul--color
+                li 
+                  i.fas.fa-circle.fa-xs
+                  p.mb-0 <b>Decreto 2206 de 1983</b>, por el cual se sustituye el Capítulo XVI de la vigilancia, el control y las sanciones, del Decreto No. 02 de 1982 sobre emisiones atmosféricas. 
+
+                li 
+                  i.fas.fa-circle.fa-xs
+                  p.mb-0 <b>Decreto 948 de 1995</b>, por el cual se reglamentan parcialmente, la Ley 23 de 1973, los artículos 33, 73, 74, 75 y 76 del Decreto - Ley 2811 de 1974; los artículos 41, 42, 43, 44, 45, 48 y 49 de la Ley 9 de 1979; y la Ley 99 de 1993, en relación con la prevención y control de la contaminación atmosférica y la protección de la calidad del aire. 
+
+                li 
+                  i.fas.fa-circle.fa-xs
+                  p.mb-0 <b>Decreto 2107 de 1995</b>, por medio del cual se modifica parcialmente el Decreto 948 de 1995, que contiene el Reglamento de Protección y Control de la Calidad del Aire. 
+                
+                li 
+                  i.fas.fa-circle.fa-xs
+                  p.mb-0 <b>Decreto 1697 de 1997</b>, por medio del cual se modifica parcialmente el decreto 948 de 1995, que contiene el reglamento de protección y control de la calidad del aire. 
+
+                li 
+                  i.fas.fa-circle.fa-xs
+                  p.mb-0 <b>Ley 629 de 2000</b>, por medio de la cual se aprueba el "Protocolo de Kyoto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático", hecho en Kyoto el 11 de diciembre de 1997. 
+
+                li 
+                  i.fas.fa-circle.fa-xs
+                  p.mb-0 <b>Resolución 909 de 2008</b>, por la cual se establecen las normas y estándares de emisión admisibles de contaminantes a la atmósfera por fuentes fijas y se dictan otras disposiciones. 
+
+                li 
+                  i.fas.fa-circle.fa-xs
+                  p.mb-0 <b>Resolución 910 de 2008</b>, por la cual se reglamentan los niveles permisibles de emisión de contaminantes que deberán cumplir las fuentes móviles terrestres, se reglamenta el artículo 91 del Decreto 948 de 1995 y se adoptan otras disposiciones. 
+
+    .row.justify-content-center.mb-5 
+      .col-lg-10
+        .tarjeta-avatar
           img(src='@/assets/curso/tema7/img15.png' alt='AvatarTop')               
           .tarjeta.color-acento-botones(style="width:100%")
             div.p-4
@@ -127,7 +163,7 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-circle.fa-xs
-                  p.mb-0 <b>Ley 140 de 1994</b>, por la cual se reglamenta la Publicidad Exterior Visual en el territorio nacional
+                  p.mb-0 <b>Ley 140 de 1994</b>, por la cual se reglamenta la Publicidad Exterior Visual en el territorio nacional.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -226,15 +262,14 @@
 
     #t_7_3.titulo-segundo
       h2 7.3  Permisos y licencias ambientales
-    p.mb-5 A continuación se relacionan la normatividad vigente asociada con los recursos naturales:
+    
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row.justify-content-center(titulo="Decreto 1541 de 1978")
         .col-lg-2
           figure
             img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
-          p.mb-4 en materia ambiental ordena que las instituciones del gobierno protejan el medio ambiente y que la ley permita a los ciudadanos participar en las decisiones que afectan su derecho a un medio ambiente adecuado. 
-          p.mb-0 Asimismo, la promoción de la protección ambiental y el desarrollo sostenible encuentran su base en la Constitución Política de 1991, que a través de su artículo 79 tutela el ambiente sano, garantizando la participación de la comunidad en las decisiones que puedan afectarlo. Mientras tanto, el artículo 95 determina que toda persona está obligada a proteger los recursos culturales y naturales del país y velar por la conservación de un ambiente sano. Establece también que el Estado debe planificar el manejo y aprovechamiento sostenible de los recursos naturales para garantizar el desarrollo sostenible por medio del artículo 80, y le da prioridad al espacio público mediante el artículo 82.  
+          p.mb-4 Decreto 1541 de 1978 artículo 146, establece que la explotación que incluye perforaciones de prueba en búsqueda de agua subterránea, con miras a su posterior aprovechamiento, requiere de un permiso de concesión de agua subterránea.  La Sección 3 del decreto establece los procedimientos para otorgar concesiones de agua superficial.
       .row.justify-content-center(titulo="Decreto 1791 de 1996")
         .col-lg-2
           figure
@@ -324,7 +359,7 @@
         .col-lg-10.d-flex.align-items-center
           div
             p.mb-0 <b>Agroquímicos Ia/Ib según la OMS:</b>  
-            p.mb-0 la OMS clasifica los plaguicidas por orden de peligrosidad, tomando como referencia la dosis letal (DL) promedio oral o cutánea. Una medición llamada LD50 (siglas en inglés) se calcula midiendo el número de miligramos de componente activo por kilogramo del peso del cuerpo, necesario para matar el 50% de un muestreo de animales - con frecuencia ratas. Cada plaguicida es luego clasificado en cuatro categorías (WHO, 2009): la, extremadamente peligroso y Ib, altamente peligroso (Ministerio de Ambiente, 2020).
+            p.mb-0 La OMS clasifica los plaguicidas por orden de peligrosidad, tomando como referencia la dosis letal (DL) promedio oral o cutánea. Una medición llamada LD50 (siglas en inglés) se calcula midiendo el número de miligramos de componente activo por kilogramo del peso del cuerpo, necesario para matar el 50 % de un muestreo de animales - con frecuencia ratas. Cada plaguicida es luego clasificado en cuatro categorías (WHO, 2009): la, extremadamente peligroso y Ib, altamente peligroso (Ministerio de Ambiente, 2020).
       .row.justify-content-center(titulo="Ley 960 de 2005")
         .col-lg-10.d-flex.align-items-center
           p.mb-0 <b>Ley 960 de 2005</b>, por medio de la cual se aprueba la "Enmienda del Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono", adoptada en Beijing, China, el 3 de diciembre de 1999. 
