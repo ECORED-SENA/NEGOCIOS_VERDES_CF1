@@ -268,16 +268,16 @@ export default {
         'https://www.minambiente.gov.co/index.php/negocios-verdes-y-sostenibles',
     },
     {
-      referencia: 'ORGANIZACIÓN DE LAS NACIONES UNIDAS. (2015). www.un.org. ',
+      referencia: 'Organización de las Naciones Unidas. (2015). www.un.org. ',
       link: 'https://www.un.org/sustainabledevelopment/es/development-agenda/',
     },
     {
       referencia:
-        'Odum, E. P. (1972). Ecología. Ciudad de Mexico: Nueva Editorial Interamericana S.A.',
+        'Odum, E. P. (1972). Ecología. Ciudad de México: Nueva Editorial Interamericana S.A.',
     },
     {
       referencia:
-        'Oficina de Gestión Ambiental Alcaldía Local de Tunjuelito. (2009). Guía tecnica para la elaboración de Planes de Manejo Ambiental (PMA). Bogotá.',
+        'Oficina de Gestión Ambiental Alcaldía Local de Tunjuelito. (2009). Guía técnica para la elaboración de Planes de Manejo Ambiental (PMA). Bogotá.',
     },
     {
       referencia:
@@ -285,11 +285,11 @@ export default {
     },
     {
       referencia:
-        'Smith, T., & Smith, R. (6° edición). (2007). Ecología. Madrid: PEARSON EDUCACIÓN, S. A.',
+        'Smith, T., & Smith, R. (6° edición). (2007). Ecología. Madrid: Pearson Educaión, S.A.',
     },
     {
       referencia:
-        'UNESCO. (2015). Los Objetivos de Desarrollo Sostenible (ODS).',
+        'Unesco. (2015). Los Objetivos de Desarrollo Sostenible (ODS).',
     },
     {
       referencia:
@@ -298,7 +298,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Desarrollo sostenible ',
+      termino: 'Desarrollo sostenible',
       significado:
         'Capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades.',
     },
@@ -308,16 +308,16 @@ export default {
         'El conjunto de conocimientos referentes a la economía de la naturaleza, la investigación de todas las relaciones del animal, tanto con su medio inorgánico como orgánico, incluyendo sobre todo su relación amistosa y hostil con aquellos animales y plantas con los que se relaciona directa o indirectamente.',
     },
     {
-      termino: 'Factores abióticos	',
+      termino: 'Factores abióticos',
       significado:
         'Son los distintos componentes que determinan el espacio físico en el cual habitan los seres vivos; entre los más importantes podemos encontrar: el agua, la temperatura, la luz, el pH, el suelo, la humedad, el aire (sin el cual muchos seres vivos no podrían vivir) y los nutrientes.',
     },
     {
-      termino: 'Factores bióticos	 ',
+      termino: 'Factores bióticos',
       significado: 'Son todos los seres vivos y su interacción entre ellos.',
     },
     {
-      termino: 'Indicador ambiental	',
+      termino: 'Indicador ambiental',
       significado:
         'Es un parámetro o valor derivado de parámetros, que proporciona información para describir el estado de un fenómeno, ambiente o área, con un significado que va más allá del directamente asociado con el valor del parámetro en sí mismo.',
     },

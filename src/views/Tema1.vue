@@ -83,7 +83,7 @@
             | Pioneros en la ecología animal en EE.UU. Imprimen nuevo rumbo a la ecología a partir de la interrelación entre las platas y los animales. 
           li 
             i.lista-ul__vineta
-            | Adams publicó el primer libro sobre ecología animal, <i>A Guide to the Study of Animal Ecology</i> (1913). Shelford escribió <i>Animal Communities in Temperate America</i> (1913).
+            p.mb-0 Adams publicó el primer libro sobre ecología animal, <i>A Guide to the Study of Animal Ecology</i> (1913). Shelford escribió <i>Animal Communities in Temperate America</i> (1913).
       .div(numero="1935" titulo="Arthur G. Tansley")
         ul.lista-ul--color
           li 
@@ -96,13 +96,13 @@
             | Propone ideas acerca de los niveles de reciclado de nutrientes orgánicos y de alimentación, usando los términos productores y consumidores.
           li 
             i.lista-ul__vineta
-            | Escribió «<i>The Trophic-Dynamic Aspects of Ecology</i>» (Los aspectos trófico-dinámicos de la ecología) , el cual señaló el comienzo de la ecología de los ecosistemas, o el estudio de todos los sistemas vivos.
+            p.mb-0 Escribió «<i>The Trophic-Dynamic Aspects of Ecology</i>» (Los aspectos trófico-dinámicos de la ecología) , el cual señaló el comienzo de la ecología de los ecosistemas, o el estudio de todos los sistemas vivos.
       
       .div(numero="1949" titulo="W. C. Allee A. E. Emerson, Thomas Park, Orlando Park y K. P. Schmidt  - (Enciclopédicos)")
         ul.lista-ul--color
           li 
             i.lista-ul__vineta
-            p.mb-0 "<i>Principles of Animal Ecology</i>" , señalaban  el rumbo que debía tomar la ecología moderna. En este se enfatizaban las relaciones de alimentación y los presupuestos de energía, la dinámica poblacional y la selección y evolución naturales.
+            p.mb-0 "<i>Principles of Animal Ecology</i>", señalaban  el rumbo que debía tomar la ecología moderna. En este se enfatizaban las relaciones de alimentación y los presupuestos de energía, la dinámica poblacional y la selección y evolución naturales.
       
     p.mb-5 Como se puede evidenciar, la importancia del término ha sido cada vez más relevante y ha despertado la necesidad de estudiar los diversos factores que participan. Es así como a partir del siglo XX se empiezan a identificar los diversos campos de la ecología, como se observa a continuación y entre los cuales se destacan: 
     

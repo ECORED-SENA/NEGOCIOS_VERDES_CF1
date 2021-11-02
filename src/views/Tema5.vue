@@ -138,6 +138,7 @@
               p.mb-0 <b>Objetivo 17.</b> Revitalizar la Alianza Mundial para el Desarrollo Sostenible.
         figure
           img(src='@/assets/curso/tema5/img04.png')  
+          figcaption Fuente: (Naciones Unidas, 2015)
 
     .row.justify-content-center
       .col-lg-5

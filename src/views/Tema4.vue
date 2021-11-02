@@ -10,6 +10,7 @@
     .row.justify-content-center.t4-gradiente.mb-5
       .col-lg-6.p-4.py-5
         p.mb-4 En la mayoría de las actividades de la vida cotidiana que requieren tomar decisiones se hace uso de los indicadores, aunque en ocasiones no se tenga conciencia de ello. Un <b>indicador</b> es una señal o advertencia que nos permite conocer algo y tomar decisiones. Se pueden identificar diversos ejemplos de indicadores, tales como la temperatura corporal y la presión arterial, las cuales son indicadores del estado de salud. Así mismo, el testigo de gasolina de los automóviles, el cual al estar en F: <b><i>full</i></b>, nos muestra que el automóvil cuenta con el total de combustible necesario para funcionar y al estar en E: <b><i>empty</i></b>, en español, vacío, deberíamos acercarnos a la estación de gasolina más cercana para adquirir combustible. 
+        p.mb-0 Del mismo modo se presentan los indicadores ambientales, para entender, describir y analizar distintos fenómenos como el clima, la pérdida de suelos y el riesgo de especies, entre muchos otros. Si bien el uso de indicadores ambientales se ha extendido, no existe una definición única del concepto y este varía de acuerdo con la institución y a los objetivos específicos que se persiguen. 
       .col-lg-6.d-flex.align-items-center.p-0
         figure
           img(src='@/assets/curso/tema4/img01.png') 

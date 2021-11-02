@@ -120,7 +120,7 @@
 
                 li 
                   i.fas.fa-circle.fa-xs
-                  p.mb-0 <b>Decreto 948 de 1995</b>, por el cual se reglamentan parcialmente, la Ley 23 de 1973, los artículos 33, 73, 74, 75 y 76 del Decreto - Ley 2811 de 1974; los artículos 41, 42, 43, 44, 45, 48 y 49 de la Ley 9 de 1979; y la Ley 99 de 1993, en relación con la prevención y control de la contaminación atmosférica y la protección de la calidad del aire. 
+                  p.mb-0 <b>Decreto 948 de 1995</b>, por el cual se reglamentan parcialmente, la Ley 23 de 1973, los artículos 33, 73, 74, 75 y 76 del Decreto - Ley 2811 de 1974; los artículos 41, 42, 43, 44, 45, 48 y 49 de la Ley 9 de 1979; y la Ley 99 de 1993, en relación con la Prevención y Control de la Contaminación Atmosférica y la Protección de la Calidad del Aire. 
 
                 li 
                   i.fas.fa-circle.fa-xs
@@ -128,7 +128,7 @@
                 
                 li 
                   i.fas.fa-circle.fa-xs
-                  p.mb-0 <b>Decreto 1697 de 1997</b>, por medio del cual se modifica parcialmente el decreto 948 de 1995, que contiene el reglamento de protección y control de la calidad del aire. 
+                  p.mb-0 <b>Decreto 1697 de 1997</b>, por medio del cual se modifica parcialmente el decreto 948 de 1995, que contiene el Reglamento de Protección y Control de la Calidad del Aire. 
 
                 li 
                   i.fas.fa-circle.fa-xs
