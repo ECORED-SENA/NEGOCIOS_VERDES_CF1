@@ -96,7 +96,7 @@
             | Propone ideas acerca de los niveles de reciclado de nutrientes orgánicos y de alimentación, usando los términos productores y consumidores.
           li 
             i.lista-ul__vineta
-            p.mb-0 Escribió «<i>The Trophic-Dynamic Aspects of Ecology</i>» (Los aspectos trófico-dinámicos de la ecología) , el cual señaló el comienzo de la ecología de los ecosistemas, o el estudio de todos los sistemas vivos.
+            p.mb-0 Escribió «<i>The Trophic-Dynamic Aspects of Ecology</i>» (Los aspectos trófico-dinámicos de la ecología), el cual señaló el comienzo de la ecología de los ecosistemas, o el estudio de todos los sistemas vivos.
       
       .div(numero="1949" titulo="W. C. Allee A. E. Emerson, Thomas Park, Orlando Park y K. P. Schmidt  - (Enciclopédicos)")
         ul.lista-ul--color
