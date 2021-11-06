@@ -59,27 +59,32 @@
     .row.justify-content-center
       .col-10
         SlyderA
-          .row.justify-content-center(style="position:relative").px-3
+          .row.justify-content-center(style="position:relative;").px-3
             .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img22.png')})`}")
-              .row.justify-content-start
-                .col-lg-5.ms-5.mt-5
-                  figure.mt-4
-                    img(src='@/assets/curso/tema2/img23.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
+              .row.justify-content-center
+                .col-lg-5
+                  .row.justify-content-center
+                    .col-6.col-sm-5.col-lg-12.ms-lg-5.mt-lg-5           
+                      figure.mt-4
+                        img.mb-lg-4(src='@/assets/curso/tema2/img23.png') 
+                //.col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
+                .col-lg-6.mt-5(style="color:white")
                   h4.mb-0.texto-blanco Función
                   p.texto-blanco.mb-4 Productor
                   h4.mb-0.texto-blanco Descripción
                   p.texto-blanco.mb-4 Organismos autótrofos fotosintéticos, capaces de captar la energía del sol y transformarla en energía química y materia. Son la base donde inician las cadenas alimenticias.
                   h4.mb-0.texto-blanco Organismos
                   p.mb-0.texto-blanco.mb-5 Plantas, algas y cianobacterias.
-
+                  br
           .row.justify-content-center(style="position:relative").px-3
             .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img24.png')})`}")
-              .row.justify-content-start
-                .col-lg-5.ms-5.mt-5
-                  figure.mt-4
-                    img.mb-5(src='@/assets/curso/tema2/img25.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
+              .row.justify-content-center
+                .col-lg-5
+                  .row.justify-content-center
+                    .col-6.col-sm-5.col-lg-12.ms-lg-5.mt-lg-5  
+                      figure.mt-4
+                        img.mb-lg-5(src='@/assets/curso/tema2/img25.png') 
+                .col-lg-6.mt-5(style="color:white")
                   h4.mb-0 Función
                   p.mb-4 Consumidor primario
                   h4.mb-0 Descripción
@@ -89,25 +94,29 @@
 
           .row.justify-content-center(style="position:relative").px-3
             .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img26.png')})`}")
-              .row.justify-content-start
-                .col-lg-5.ms-5.mt-5
-                  figure.mt-4
-                    img.mb-5(src='@/assets/curso/tema2/img27.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
+              .row.justify-content-center
+                .col-lg-5
+                  .row.justify-content-center
+                    .col-6.col-sm-5.col-lg-12.ms-lg-5.mt-lg-5  
+                      figure.mt-4
+                        img.mb-lg-5(src='@/assets/curso/tema2/img27.png') 
+                .col-lg-6.mt-5(style="color:white")
                   h4.mb-0 Función
                   p.mb-4 Consumidor secundario 
                   h4.mb-0 Descripción
                   p.mb-4 Organismos heterótrofos carnívoros.
                   h4.mb-0 Organismos
                   p.mb-0.mb-5 Arácnidos, mamíferos carnívoros, algunos peces y reptiles.
-
+                  br
           .row.justify-content-center(style="position:relative").px-3
             .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img28.png')})`}")
               .row.justify-content-start
-                .col-lg-5.ms-5.mt-5
-                  figure.mt-4
-                    img.mb-5(src='@/assets/curso/tema2/img29.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
+                .col-lg-5
+                  .row.justify-content-center
+                    .col-6.col-sm-5.col-lg-12.ms-lg-5.mt-lg-5  
+                      figure.mt-4
+                        img.mb-lg-5(src='@/assets/curso/tema2/img29.png') 
+                .col-lg-6.mt-5(style="color:white")
                   h4.mb-0 Función
                   p.mb-4 Consumidor terciario
                   h4.mb-0 Descripción
@@ -115,14 +124,16 @@
                   p.mb-0 Depredadores de gran tamaño que se alimentan de los consumidores secundarios.
                   h4.mb-0 Organismos
                   p.mb-0.mb-5 Felinos, tiburones y aves depredadoras.
-          
+                  br
           .row.justify-content-center(style="position:relative").px-3
             .col-12(:style="{'background-image': `url(${require('@/assets/curso/tema2/img30.png')})`}")
               .row.justify-content-start
-                .col-lg-5.ms-5.mt-5
-                  figure.mt-4
-                    img(src='@/assets/curso/tema2/img31.png') 
-                .col-lg-6.mt-5(style="position:relative; left:-6%; color:white")
+                .col-lg-5
+                  .row.justify-content-center
+                    .col-6.col-sm-5.col-lg-12.ms-lg-5.mt-lg-5  
+                      figure.mt-4
+                        img.mb-lg-5(src='@/assets/curso/tema2/img31.png') 
+                .col-lg-6.mt-5(style="color:white")
                   h4.mb-0.texto-blanco Función
                   p.texto-blanco.mb-4 Reintegradores
                   h4.mb-0.texto-blanco Descripción
