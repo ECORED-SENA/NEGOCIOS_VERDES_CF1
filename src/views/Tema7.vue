@@ -22,81 +22,107 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row.justify-content-center(titulo="La Constitución Política de Colombia ")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img02.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img02.svg')
         .col-lg-9
           p.mb-4 En materia ambiental ordena que las instituciones del gobierno protejan el medio ambiente y que la ley permita a los ciudadanos participar en las decisiones que afectan su derecho a un medio ambiente adecuado. 
           p.mb-0 Asimismo, la promoción de la protección ambiental y el desarrollo sostenible encuentran su base en la Constitución Política de 1991, que a través de su artículo 79 tutela el ambiente sano, garantizando la participación de la comunidad en las decisiones que puedan afectarlo. Mientras tanto, el artículo 95 determina que toda persona está obligada a proteger los recursos culturales y naturales del país y velar por la conservación de un ambiente sano. Establece también que el Estado debe planificar el manejo y aprovechamiento sostenible de los recursos naturales para garantizar el desarrollo sostenible por medio del artículo 80, y le da prioridad al espacio público mediante el artículo 82.  
       .row.justify-content-center(titulo="Ley 23 de 1973 ")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img03.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img03.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Ley 23 de 1973 reglamentada parcialmente por los decretos 704 de 1986, 305 de 1988 y 1794 de 1989, establece el control de la contaminación del medio ambiente, alternativas y estrategias para la conservación y recuperación de los recursos naturales, para la salud y el bienestar de la población. 
       .row.justify-content-center(titulo="Decreto Ley 2811 de 1974")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img04.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img04.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Decreto Ley 2811 de 1974, por el cual se establece el Código de los Recursos Naturales y de Protección al Medio Ambiente. Este código regula la atmósfera y el espacio aéreo nacional, las aguas en cualquiera de sus estados, la tierra, el suelo y el subsuelo, la flora, la fauna, las fuentes primarias de energía no agotables, las pendientes topográficas con potencial energético, los recursos geotérmicos, los recursos biológicos de las aguas y del suelo y el subsuelo del mar territorial y de la zona económica de dominio continental e insular de la República y los recursos del paisaje.
       .row.justify-content-center(titulo="Ley 9 de 1979")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img05.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img05.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Ley 9 de 1979, Código Sanitario Nacional, establece los procedimientos y medidas para legislar, regular y controlar las descargas de los residuos y materiales. Indica además los parámetros para controlar las actividades que afecten el medio ambiente. 
       .row.justify-content-center(titulo="Ley 99 de 1993")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img06.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img06.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Ley 99 de 1993, por la cual se crea el Sistema Nacional Ambiental, establece el marco general de gestión ambiental y está orientada a promover el desarrollo sostenible, de manera general. La ley 99 estableció el Ministerio del Medio Ambiente, hoy Ministerio de Ambiente y Desarrollo Sostenible (MADS), como organismo rector de la gestión sostenible del medioambiente y de los recursos naturales y del ordenamiento ambiental del territorio. 
       .row.justify-content-center(titulo="Decreto 1076 de 2015")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img07.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img07.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Decreto 1076 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible.
       .row.justify-content-center(titulo="Resolución 689 de 2016")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img08.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img08.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Resolución 689 de 2016, expide el reglamento que define los límites máximos de fósforo y biodegrabilidad de los tensoactivos presentes en detergentes y jabones.
       .row.justify-content-center(titulo="Ley 1844 de 2017")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img09.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img09.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Ley 1844 de 2017, adopta el acuerdo de París del convenio marco de las Naciones Unidas sobre el cambio climático. 
       .row.justify-content-center(titulo="Decreto 870 de 2017")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img10.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img10.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Decreto 870 de 2017, crea el sistema de pago por servicios ambientales y otros incentivos de conservación. 
       .row.justify-content-center(titulo="Resolución 1447 de 2018")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img11.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img11.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Resolución 1447 de 2018, reglamenta el monitoreo, reporte y verificación de las acciones de mitigación a nivel nacional frente a la reducción y remoción de emisiones de gases de invernadero.
       .row.justify-content-center(titulo="Resolución 2210 de 2018")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img12.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img12.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Resolución 2210 de 2018, por la cual se reglamenta el uso del sello minero ambiental colombiano de naturaleza voluntaria. 
       .row.justify-content-center(titulo="Ley 1931 de 2018")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img13.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img13.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Ley 1931 de 2018, define las directrices para la gestión del cambio climático de las personas públicas y privadas.
       .row.justify-content-center(titulo="Resolución 1561 de 2019 ")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img14.svg')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img14.svg')
         .col-lg-9.d-flex.align-items-center
           p.mb-0 Resolución 1561 de 2019 establece los términos de referencia para elaborar estudios de impacto ambiental, para poder tramitar las licencias ambientales de los proyectos de explotación de materias de construcción.
       
