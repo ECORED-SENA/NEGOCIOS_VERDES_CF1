@@ -2,8 +2,8 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal
-      .titulo-principal__numero
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero.texto-blanco
         span 2
       h1 Medio ambiente
 

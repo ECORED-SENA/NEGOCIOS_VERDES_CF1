@@ -291,7 +291,7 @@ export default {
     },
     {
       referencia:
-        'Smith, T., & Smith, R. (6° edición). (2007). Ecología. Madrid: Pearson Educaión, S.A.',
+        'Smith, T., & Smith, R. (6° edición). (2007). Ecología. Madrid: Pearson Education, S.A.',
     },
     {
       referencia:
@@ -342,12 +342,12 @@ export default {
     {
       texto:
         'Naciones Unidas. (2015). Importancia de los Objetivos de Desarrollo Sostenible.',
-      tipo: 'PDF>',
+      tipo: 'Pdf',
       descarga: '/downloads/Importancia_Objetivos_Desarrollo_Sostenible.pdf',
     },
     {
       texto:
-        'UNESCO. (2017). Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos.',
+        'Unesco. (2017). Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos.',
       tipo: 'Vídeo YouTube',
       link: 'https://youtu.be/MCKH5xk8X-g',
     },

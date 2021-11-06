@@ -2,8 +2,8 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal
-      .titulo-principal__numero
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero.texto-blanco
         span 1
       h1 Ecología 
 
@@ -98,7 +98,7 @@
             i.lista-ul__vineta
             p.mb-0 Escribió «<i>The Trophic-Dynamic Aspects of Ecology</i>» (Los aspectos trófico-dinámicos de la ecología), el cual señaló el comienzo de la ecología de los ecosistemas, o el estudio de todos los sistemas vivos.
       
-      .div(numero="1949" titulo="W. C. Allee A. E. Emerson, Thomas Park, Orlando Park y K. P. Schmidt  - (Enciclopédicos)")
+      .div.prueba(numero="1949" titulo="W. C. Allee A. E. Emerson, Thomas Park, Orlando Park y K. P. Schmidt  - (Enciclopédicos)")
         ul.lista-ul--color
           li 
             i.lista-ul__vineta
