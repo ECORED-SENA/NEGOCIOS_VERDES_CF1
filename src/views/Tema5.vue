@@ -21,7 +21,7 @@
 
     Separador
       
-    #t_5_1.titulo-segundo
+    #t_5_1.titulo-segundo.color-acento-contenido
       h2 5.1  Agenda 2030 Objetivos del Desarrollo Sostenible (ODS)
     
     .row.justify-content-center
@@ -34,7 +34,7 @@
 
     Separador
 
-    #t_5_2.titulo-segundo
+    #t_5_2.titulo-segundo.color-acento-contenido
       h2 5.2  Componentes fundamentales
 
     .row.justify-content-start
@@ -76,7 +76,7 @@
 
     Separador
 
-    #t_5_3.titulo-segundo
+    #t_5_3.titulo-segundo.color-acento-contenido
       h2 5.3  Objetivos de Desarrollo Sostenible 
 
     p.mb-4 En la Agenda 2030 Objetivos del Desarrollo Sostenible de la ONU, se contemplan 17objetivos, los cuales deben cumplirse en todos los países miembros de la organización. 

@@ -18,7 +18,7 @@
 
     Separador 
 
-    #t_3_1.titulo-segundo
+    #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1  Objetivos
 
     .row.justify-content-center
@@ -30,7 +30,7 @@
           img(src='@/assets/curso/tema3/img02.png') 
     Separador
 
-    #t_3_2.titulo-segundo
+    #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2  Contenido del PMA
     p.mb-5 El Plan de Manejo Ambiental debe contar con los siguientes elementos: 
     .row.justify-content-start
@@ -77,7 +77,7 @@
             | Actividad de la empresa.
     Separador
 
-    #t_3_3.titulo-segundo
+    #t_3_3.titulo-segundo.color-acento-contenido
       h2 3.3  Marco legal
 
     .row.justify-content-center

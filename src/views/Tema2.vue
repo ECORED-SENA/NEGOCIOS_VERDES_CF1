@@ -20,7 +20,7 @@
 
     Separador
 
-    #t_2_1.titulo-segundo
+    #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1  Estructura del ambiente
 
     p.mb-0 El medio ambiente consta de dos factores que se relacionan estrechamente entre sí en el ecosistema: 
@@ -35,7 +35,7 @@
           img(src='@/assets/curso/tema2/img21.png') 
     Separador
 
-    #t_2_2.titulo-segundo
+    #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2  Factores bióticos
 
    
@@ -47,8 +47,11 @@
     .row.justify-content-center.mb-4
       .col-10
         .bloque-texto-c.color-acento-botones.p-4
-          i.fas.fa-quote-right
-          h4.mb-2.px-4 Este concepto es algo más complejo, pues está determinado por: las características ambientales que una especie tolera y requiere para sobrevivir y reproducirse, la utilización de los recursos disponibles, el tipo de alimento que consume, la posición trófica que ocupa dicha especie de organismo en el ecosistema y la forma en que es coaccionada por otras especies.
+          .bloque-texto-b
+            .bloque-texto-b__texto
+              i.fas.fa-quote-left
+              h4.mb-2.px-4 Este concepto es algo más complejo, pues está determinado por: las características ambientales que una especie tolera y requiere para sobrevivir y reproducirse, la utilización de los recursos disponibles, el tipo de alimento que consume, la posición trófica que ocupa dicha especie de organismo en el ecosistema y la forma en que es coaccionada por otras especies.
+              i.fas.fa-quote-right
           .div.d-flex.justify-content-end            
             p Según Urrutia (2014)
 
@@ -143,7 +146,7 @@
 
     Separador
 
-    #t_2_3.titulo-segundo
+    #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Factores abióticos
 
     .row.justify-content-center
@@ -222,7 +225,7 @@
                 p.mb-0 Son sustancias esenciales que las plantas toman del suelo para vivir, pues estas no sólo necesitan luz, agua y CO2 para realizar fotosíntesis. Existen dos principales grupos de nutrientes: los macronutrientes como el nitrógeno (N), fósforo (P), potasio (K), calcio (Ca), magnesio (Mg) y azufre (S). Y los micronutrientes u oligoelementos como el hierro (Fe), zinc (Zn), manganeso (Mn), boro (B), cobre (Cu), molibdeno (Mo) y cloro (Cl), entre algunos otros.     
     Separador
 
-    #t_2_4.titulo-segundo
+    #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 Variables ambientales
 
     p.mb-5 Es momento de precisar las diferentes variables ambientales existentes, entre ellas se encuentran: 

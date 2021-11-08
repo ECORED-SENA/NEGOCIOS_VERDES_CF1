@@ -128,7 +128,7 @@
       
     Separador
       
-    #t_7_1.titulo-segundo
+    #t_7_1.titulo-segundo.color-acento-contenido
       h2 7.1  Normativa para los recursos naturales
     p.mb-5 A continuación se relacionan la normatividad vigente asociada con los recursos naturales:
 
@@ -136,7 +136,7 @@
       .col-lg-10
         .tarjeta-avatar
           img(src='@/assets/curso/tema7/img20.png' alt='AvatarTop')               
-          .tarjeta.color-acento-botones(style="width:100%")
+          .tarjeta.t7-7_1
             div.p-4
               h4.text-center Aire
               ul.lista-ul--color
@@ -172,7 +172,7 @@
       .col-lg-10
         .tarjeta-avatar
           img(src='@/assets/curso/tema7/img15.png' alt='AvatarTop')               
-          .tarjeta.color-acento-botones(style="width:100%")
+          .tarjeta.t7-7_1
             div.p-4
               h4.text-center Ruido
               ul.lista-ul--color
@@ -183,7 +183,7 @@
       .col-lg-10
         .tarjeta-avatar
           img(src='@/assets/curso/tema7/img16.png' alt='AvatarTop')               
-          .tarjeta.color-acento-botones(style="width:100%")
+          .tarjeta.t7-7_1
             div.p-4
               h4.text-center Contaminación visual
               ul.lista-ul--color
@@ -195,7 +195,7 @@
       .col-lg-10
         .tarjeta-avatar
           img(src='@/assets/curso/tema7/img17.png' alt='AvatarTop')               
-          .tarjeta.color-acento-botones(style="width:100%")
+          .tarjeta.t7-7_1
             div.p-4
               h4.text-center Biodiversidad
               ul.lista-ul--color
@@ -239,7 +239,7 @@
       .col-lg-10
         .tarjeta-avatar
           img(src='@/assets/curso/tema7/img18.png' alt='AvatarTop')               
-          .tarjeta.color-acento-botones(style="width:100%")
+          .tarjeta.t7-7_1
             div.p-4
               h4.text-center Hídrico
               ul.lista-ul--color
@@ -265,7 +265,7 @@
 
     Separador
 
-    #t_7_2.titulo-segundo
+    #t_7_2.titulo-segundo.color-acento-contenido
       h2 7.2  Recursos genéticos y propiedad intelectual
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta t7-div1")
@@ -286,98 +286,124 @@
           p.mb-0 <b>Resolución 620 de 1997</b>, delega algunas funciones contenidas en la Decisión 391/96 de la Comisión del Acuerdo de Cartagena y establece el procedimiento interno para tramitar las solicitudes de acceso a los Recursos Genéticos y sus productos derivados. 
     Separador
 
-    #t_7_3.titulo-segundo
+    #t_7_3.titulo-segundo.color-acento-contenido
       h2 7.3  Permisos y licencias ambientales
     
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row.justify-content-center(titulo="Decreto 1541 de 1978")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-4 Decreto 1541 de 1978 artículo 146, establece que la explotación que incluye perforaciones de prueba en búsqueda de agua subterránea, con miras a su posterior aprovechamiento, requiere de un permiso de concesión de agua subterránea.  La Sección 3 del decreto establece los procedimientos para otorgar concesiones de agua superficial.
       .row.justify-content-center(titulo="Decreto 1791 de 1996")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-0 Decreto 1791 de 1996, por medio del cual se establece el régimen de aprovechamiento forestal. 
       .row.justify-content-center(titulo="Resolución 619 de 1997")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-0 Resolución 619 de 1997, por la cual se establecen parcialmente los factores a partir de los cuales se requiere permiso de emisión atmosférica para fuentes fijas. 
       .row.justify-content-center(titulo="Decreto 1324 de 2007")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-0 Decreto 1324 de 2007, por el cual se crea el Registro de Usuarios del Recurso Hídrico y se dictan otras disposiciones. 
       .row.justify-content-center(titulo="Decreto 2803 de 2010")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-0 Decreto 2803 de 2010, por el cual se reglamenta la Ley 1377 de 2010, sobre registro de cultivos forestales y sistemas agroforestales con fines comerciales, de plantaciones protectoras - productoras la movilización de productos forestales de transformación primaria y se dictan otras disposiciones. 
       .row.justify-content-center(titulo="Decreto 3930 de 2010")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-0 Decreto 3930 de 2010, en su Artículo 41 establece que toda persona natural o jurídica, cuya actividad o servicio genere vertimientos a aguas superficiales, marinas o al suelo, deberá solicitar y tramitar ante la autoridad ambiental competente, el respectivo permiso de vertimientos.  
       .row.justify-content-center(titulo="Decreto 3016 de 2013")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-0 Decreto 3016 de 2013, por el cual se reglamenta el permiso de estudio para la recolección de especímenes de especies silvestres de la diversidad biológica con fines de elaboración de estudios ambientales. 
       .row.justify-content-center(titulo="Decreto 2041 de 2014")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9
           p.mb-0 Decreto 2041 de 2014, por el cual se reglamenta el Título VIII de la Ley 99 de 1993 sobre licencias ambientales. El capítulo II, define el Estudio de Impacto ambiental (EIA) e indica el contenido mínimo que este debe incluir.  Título IV, define la evaluación del Diagnóstico Ambiental de Alternativas (DAA), los proyectos que están sujetos a su elaboración y los requisitos para su presentación ante la autoridad ambiental competente.  
     Separador
 
-    #t_7_4.titulo-segundo
+    #t_7_4.titulo-segundo.color-acento-contenido
       h2 7.4  Manejo de residuos
     p.mb-5 A continuación se relacionan la normatividad vigente asociada con los recursos naturales:
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row.justify-content-center(titulo="Decreto 1140 de 2003")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9          
           p.mb-0 Decreto 1140 de 2003, por el cual se modifica parcialmente el Decreto 1713 de 2002, en relación con el tema de las unidades de almacenamiento, y se dictan otras disposiciones. 
       .row.justify-content-center(titulo="Decreto 1443 de 2004")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9          
           p.mb-0 Decreto 1443 de 2004, por el cual se reglamenta parcialmente el Decreto 2811 de 1974, la Ley 253 de 1996, y la Ley 430 de 1998, en relación con la prevención y control de la contaminación ambiental por el manejo de plaguicidas y desechos o residuos peligrosos provenientes de los mismos y se dictan otras disposiciones. 
       .row.justify-content-center(titulo="Decreto 838 de 2005")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9          
           p.mb-0 Decreto 838 de 2005, por el cual se modifica la Resolución 541 de 1994 para la disposición final de residuos sólidos y se dictan otras disposiciones.
       .row.justify-content-center(titulo="Ley 1252 de 2008")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9          
           p.mb-0 Ley 1252 de 2008, por la cual se dictan normas prohibitivas en materia ambiental, referentes a los residuos y desechos peligrosos y se dictan otras disposiciones. 
       .row.justify-content-center(titulo="Decreto 3930 de 2010")
         .col-lg-2
-          figure
-            img(src='@/assets/curso/tema7/img19.png')
+          .row.justify-content-center.mb-3
+            .col-4.col-sm-3.col-lg-12
+              figure
+                img(src='@/assets/curso/tema7/img19.png')
         .col-lg-9          
           p.mb-0 Decreto 3930 de 2010, por el cual se reglamenta parcialmente el Título I de la Ley 9ª de 1979, así como el Capítulo II del Título VI -Parte III- Libro II del Decreto-ley 2811 de 1974 en cuanto a usos del agua y residuos líquidos y se dictan otras disposiciones. Este Decreto se modifica parcialmente por el Decreto 4728 de 2010.  
     
     Separador
 
-    #t_7_5.titulo-segundo
+    #t_7_5.titulo-segundo.color-acento-contenido
       h2 7.5  Sustancias o materiales peligrosos
     
     AcordionA(tipo="a" clase-tarjeta="tarjeta t7-div1")

@@ -19,17 +19,17 @@
           p.mb-0 En otras palabras, la ecología se puede definir como el estudio de las relaciones entre los organismos y el medio ambiente o el entorno en el cual viven. 
       .col-lg-6
         p.mb-4 La definición de ecología de Ernst Haeckel, publicada en uno de sus trabajos, en 1870, dice así: 
-        .bloque-texto-d.color-acento-botones.p-4
+        .bloque-texto-d.color-acento-botones.p-4(style="border-top: 0px solid white !important;")
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h4.text-regular Entendemos por ecología el conjunto de conocimientos referentes a la economía de la naturaleza, la investigación de todas las relaciones del animal tanto con su medio inorgánico como orgánico, incluyendo sobre todo su relación amistosa y hostil con aquellos animales y plantas con los que se relaciona directa o indirectamente. 
+            h4.text-regular <b>Entendemos por ecología el conjunto de conocimientos referentes a la economía de la naturaleza, la investigación de todas las relaciones del animal tanto con su medio inorgánico como orgánico, incluyendo sobre todo su relación amistosa y hostil con aquellos animales y plantas con los que se relaciona directa o indirectamente.</b> 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h6.mb-0 (García, 2014, pág. 24).          
+            .h6.mb-0(style="font-weight:normal !important") (García, 2014, pág. 24).          
 
     Separador
       
-    #t_1_1.titulo-segundo
+    #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1  Raíces de la ecología
 
     p.mb-4 La ecología, tal y como se conoce actualmente, tuvo su evolución desde la antigua Grecia hasta el siglo actual, en el que aún se siguen desarrollando diferentes teorías y caracterizaciones. 
@@ -182,7 +182,7 @@
 
     Separador
   
-    #t_1_2.titulo-segundo
+    #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2  Aplicaciones
 
     p.mb-5 Teniendo en cuenta el desarrollo que a través de los años ha presentado el concepto de ecología y los aspectos o campos en los cuales tiene incidencia, se puede afirmar que dentro de las aplicaciones de esta ciencia se destacan: 
@@ -248,7 +248,7 @@
             p (de Pablo & Martín de Agar, 2005, pág. 80).
     Separador
 
-    #t_1_3.titulo-segundo
+    #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Niveles ecológicos
     p.mb-5 Como se ha indicado anteriormente, la ecología se encarga de estudiar los seres vivos en relación con el entorno y sus niveles de organización o niveles ecológicos, entre los cuales se encuentran: 
     
@@ -294,7 +294,7 @@
               img(src='@/assets/curso/tema1/img16.png') 
     Separador
 
-    #t_1_4.titulo-segundo
+    #t_1_4.titulo-segundo.color-acento-contenido
       h2 1.4 Especialidades
 
     p.mb-5 García (2014) indica que el estudio de la ecología se subdivide en diferentes especialidades, a saber: 

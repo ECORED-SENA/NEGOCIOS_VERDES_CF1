@@ -21,7 +21,7 @@
     Separador
 
       
-    #t_6_1.titulo-segundo
+    #t_6_1.titulo-segundo.color-acento-contenido
       h2 6.1  Objetivos
     figure.mb-5
       img(src='@/assets/curso/tema6/img09.png') 
@@ -48,7 +48,7 @@
 
     Separador
 
-    #t_6_2.titulo-segundo
+    #t_6_2.titulo-segundo.color-acento-contenido
       h2 6.2  Medidas de manejo ambiental
     figure.mb-5
       img(src='@/assets/curso/tema6/img03.png') 

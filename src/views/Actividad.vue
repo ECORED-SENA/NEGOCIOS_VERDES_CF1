@@ -9,7 +9,7 @@
           figure
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
+        .titulo-segundo.color-acento-contenido
           h2 Ecolotest
         p.mb-4 Apreciado aprendiz, a continuación, se encuentra la actividad didáctica denominada #[i Ecolotest], la cual le permitirá determinar el grado de apropiación de los contenidos del componente formativo: #[b diagnóstico del entorno ambiental].
 

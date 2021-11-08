@@ -8,17 +8,17 @@
       h1 Indicadores ambientales
 
     .row.justify-content-center.t4-gradiente.mb-5
-      .col-lg-6.p-4.py-5
+      .col-xxl-6.px-4.py-2
         p.mb-4 En la mayoría de las actividades de la vida cotidiana que requieren tomar decisiones se hace uso de los indicadores, aunque en ocasiones no se tenga conciencia de ello. Un <b>indicador</b> es una señal o advertencia que nos permite conocer algo y tomar decisiones. Se pueden identificar diversos ejemplos de indicadores, tales como la temperatura corporal y la presión arterial, las cuales son indicadores del estado de salud. Así mismo, el testigo de gasolina de los automóviles, el cual al estar en F: <b><i>full</i></b>, nos muestra que el automóvil cuenta con el total de combustible necesario para funcionar y al estar en E: <b><i>empty</i></b>, en español, vacío, deberíamos acercarnos a la estación de gasolina más cercana para adquirir combustible. 
         p.mb-0 Del mismo modo se presentan los indicadores ambientales, para entender, describir y analizar distintos fenómenos como el clima, la pérdida de suelos y el riesgo de especies, entre muchos otros. Si bien el uso de indicadores ambientales se ha extendido, no existe una definición única del concepto y este varía de acuerdo con la institución y a los objetivos específicos que se persiguen. 
-      .col-lg-6.d-flex.align-items-center.p-0
+      .col-xxl-6.d-flex.align-items-center.py-0
         figure
           img(src='@/assets/curso/tema4/img01.png') 
     p.mb-0 Una de las definiciones más conocida y aceptada proviene de la Organización para la Cooperación y el Desarrollo Económico (OCDE), que desde hace varios años utiliza un conjunto de indicadores como información base para realizar evaluaciones periódicas del desempeño ambiental de los diferentes países que integran la organización. Según la OCDE, un indicador ambiental es un parámetro o valor derivado de parámetros que proporciona información para describir el estado de un fenómeno, ambiente o área, con un significado que va más allá del directamente asociado con el valor del parámetro en sí mismo. (Secretaría de Medio Ambiente y Recursos Naturales, 2016).
       
     Separador
 
-    #t_4_1.titulo-segundo
+    #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1  Funciones
 
     p.mb-4 Los indicadores ambientales se han utilizado a nivel regional, nacional e internacional, con la finalidad de informar acerca de los cambios presentados en el medio ambiente, el funcionamiento y desempeño de las políticas y planes ambientales desarrollados por cada gobierno y comunicar el progreso hacia la búsqueda del desarrollo sostenible.
@@ -30,7 +30,7 @@
           img(src='@/assets/curso/tema4/img02.png') 
     Separador
 
-    #t_4_2.titulo-segundo
+    #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2  Características
 
     .row.justify-content-center.mb-5
