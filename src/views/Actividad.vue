@@ -11,7 +11,9 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Ecolotest
-        p.mb-4 Evaluar los conocimientos adquiridos acerca de diagnóstico del entorno ambiental.
+        p.mb-4 Apreciado aprendiz, a continuación, se encuentra la actividad didáctica denominada #[i Ecolotest], la cual le permitirá determinar el grado de apropiación de los contenidos del componente formativo: #[b diagnóstico del entorno ambiental].
+
+        p.mb-4 Para desarrollar esta actividad, primero lea la afirmación de cada ítem y luego señale verdadero o falso según corresponda. Este ejercicio es de repaso, no constituye una actividad evaluativa.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
